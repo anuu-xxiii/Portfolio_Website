@@ -104,7 +104,7 @@ function Projects() {
           <div className="gold-line" />
           <h1 className="projects-title">Projects</h1>
           <p className="projects-subtitle">
-            A selection of research, academic, and engineering work — spanning healthcare AI,
+            A selection of research, academic, and engineering work. Spanning healthcare AI,
             generative models, and full-stack systems.
           </p>
         </div>
@@ -156,7 +156,7 @@ function Projects() {
 
       <footer className="projects-footer">
         <div className="container footer-inner-proj">
-          <p>More projects coming soon · <a href="https://github.com/your-username" target="_blank" rel="noreferrer">github.com/your-username</a></p>
+          <p>More projects coming soon · <a href="https://github.com/anuu-xxiii" target="_blank" rel="noreferrer">Github Link</a></p>
         </div>
       </footer>
     </div>
